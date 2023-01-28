@@ -1,14 +1,14 @@
 
 ![loo](https://github.com/TonmoyIslamRuhin1255/TonmoyIslamRuhin1255/blob/main/githubbaner.png)
 <h3>Hi there 👋</h3>
-I'm Tonmoy, Full Stack Web Application Developer.
+I'm shuvo, Full Stack Web Application Developer.
 
 <h3>☕ Connect with me!</h3>
 <p>
 <a href="https://www.linkedin.com/in/shuvo-ahammmed%E2%9C%94-7aab39200/">
 <img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
 </a>
-  <a href="https://www.fiverr.com/trustedperson75">
+  <a href="fiverr">
 <img src ="https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&labelColor=5c5c5c&color=61DAFBc&logoColor=white&label=%20" height="25" style="max-width: 100%;">
 </a>
 </p>
