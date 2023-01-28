@@ -53,7 +53,7 @@ I'm shuvo, Full Stack Web Application Developer.
 
 <h3>💬 Ask me about ...</h3>
 
-<p>Hello, My name MD. Tonmoy Islam Ruhin. Hardworking web developer and WordPress expert looking for opportunities to utilize
+<p>Hello, My name Shuvo Ahammed. Hardworking web developer and WordPress expert looking for opportunities to utilize
 my knowledge to create solutions to clients' website needs with the ability to create
 elegant solutions in minimum time. Creative thinking, problem-solving, teamwork, and
 technical skills are my strengths. Self-motivated team player with Three years of
